@@ -17,7 +17,7 @@ Program służy do analizy sygnałów odczytywanych z pliku binarnego i zapisuje
 - **ROOT Framework** (do analizy danych)
 - Plik binarny zawierający dane sygnałowe (np. `wave_0.dat`).
 
-## Instalacja i uruchomienie
+## Uruchomienie i wyniki
 
 ### **1. Kompilacja i uruchomienie**
 ```bash
